@@ -5,7 +5,7 @@ Just a notebook reproducing the Non-linear Autoregressive Gaussian Process (Perd
 
 ![image](https://github.com/jibanCat/nargp_tensorflow/assets/23435784/2d2e695a-d8d3-454a-a9cc-23fe93d5a575)
 
-## Example take from Emukit website
+## Example taken from Emukit website (Forrester function)
 
 ![image](https://github.com/jibanCat/nargp_tensorflow/assets/23435784/aee41f8f-7096-4afc-9424-0e791da4d54d)
 
